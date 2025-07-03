@@ -1,0 +1,10 @@
+python_dotenv
+crewai
+pydantic
+pdfplumber
+langchain
+langchain_openai
+crewai_tools
+fastapi
+uvicorn
+python-multipart
