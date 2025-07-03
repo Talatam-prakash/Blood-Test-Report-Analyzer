@@ -44,13 +44,13 @@ An AI-powered system that analyzes blood test reports using professional medical
 
 ## 📁 Project Structure
 
-blood-test-analyzer/
-├── agents.py # Professional medical agents
-├── tasks.py # Well-defined analysis tasks
-├── tools.py # Robust analysis tools
-├── main.py # FastAPI application
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+- blood-test-analyzer/
+- ├── agents.py # Professional medical agents
+- ├── tasks.py # Well-defined analysis tasks
+- ├── tools.py # Robust analysis tools
+- ├── main.py # FastAPI application
+- ├── requirements.txt # Python dependencies
+- └── README.md # Project documentation
 
 ## Setup Instructions
 
